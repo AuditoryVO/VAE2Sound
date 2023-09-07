@@ -26,8 +26,8 @@ INSTALLATION
 - Download the data: http://svocats.cab.inta-csic.es/miles/index.php?action=credits
 - Download all the content into the same folder
 - Download and install Cabbage-Audio: https://cabbageaudio.com/download/
-- For a direct sonification with pre-calculated autoencoder:
-- Launch Cabbage, open Autoencoder2Sound.csd, and press play
-- Run Jupyter notebook 1 for notes or 2 for chord demos
-- To recalculate the weights of the autoencoder run Jupyter notebook 3
+- For a direct sonification with pre-calculated VAE:
+  - Launch Cabbage, open VAE2Sound.csd, and press play
+  - Run Jupyter notebook 1 for chords or 2 for note sonification demos
+- To recalculate the weights of the VAE run Jupyter notebook 3
 - Enjoy the sonifications!
