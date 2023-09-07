@@ -1,5 +1,3 @@
-;Multichannel2Layers12dimAutoencoder2Notes
-;Adrián García Riber
 ;2021
 <Cabbage>
 form caption("12dim_Spectra2Sound") size(950, 430), colour(50, 50, 50), pluginID("12dim_Spectra2Sound")
