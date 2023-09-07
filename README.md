@@ -1,12 +1,6 @@
 # VAE2Sound
 Stellar spectra-driven latent space sonification using a variational autoencoder. Sound spatialization in 360 degrees.
-
-
-
-
-
-
-
+![Screen Shot 2023-09-08 at 00 17 57](https://github.com/AuditoryVO/VAE2Sound/assets/144262864/d556db5d-8267-4b63-b90a-d86ff6d4dfaa)
 CONTENTS
 
 - Jupyter notebook 1: VAE-Demo.ipynb
