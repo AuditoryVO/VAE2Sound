@@ -13,8 +13,8 @@ CONTENTS
 - Encoder: Miles_VAE_Encoder.tf
 - Decoder: Miles_VAE_Decoder.tf
 - Weights: Miles_VAE_Weights.index & Miles_VAE_Weights.data
-- Jupyter notebook 1: VAE2Notes-Demo.ipynb
-- Jupyter notebook 2: VAE2Chords-Demo.ipynb
+- Jupyter notebook 1: VAE2Chords-Demo.ipynb
+- Jupyter notebook 2: VAE2Notes-Demo.ipynb
 - Jupyter notebook 3: VAE-Demo.ipynb
 - CSound/Cabbage file: VAE2Sound.csd
 - Cabbage mask file: Init2.png
