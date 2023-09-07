@@ -9,13 +9,9 @@ Stellar spectra-driven latent space sonification using a variational autoencoder
 
 CONTENTS
 
-- Model: Miles_VAE.tf
-- Encoder: Miles_VAE_Encoder.tf
-- Decoder: Miles_VAE_Decoder.tf
-- Weights: Miles_VAE_Weights.index & Miles_VAE_Weights.data
-- Jupyter notebook 1: VAE2Chords-Demo.ipynb
-- Jupyter notebook 2: VAE2Notes-Demo.ipynb
-- Jupyter notebook 3: VAE-Demo.ipynb
+- Jupyter notebook 1: VAE-Demo.ipynb
+- Jupyter notebook 2: VAE2Chords-Demo.ipynb
+- Jupyter notebook 3: VAE2Notes-Demo.ipynb
 - CSound/Cabbage file: VAE2Sound.csd
 - Cabbage mask file: Init2.png
 - Sample spectrum: Autoencoder.png
@@ -25,9 +21,8 @@ INSTALLATION
 
 - Download the data: http://svocats.cab.inta-csic.es/miles/index.php?action=credits
 - Download all the content into the same folder
+- Calculate the weights of the VAE running Jupyter notebook 1: VAE-Demo.ipynb
 - Download and install Cabbage-Audio: https://cabbageaudio.com/download/
-- For a direct sonification with pre-calculated VAE:
-  - Launch Cabbage, open VAE2Sound.csd, and press play
-  - Run Jupyter notebook 1 for chords or 2 for note sonification demos
-- To recalculate the weights of the VAE run Jupyter notebook 3
+- Launch Cabbage, open VAE2Sound.csd, and press play
+- Run Jupyter notebook 2 for chords or 3 for note sonification demos
 - Enjoy the sonifications!
