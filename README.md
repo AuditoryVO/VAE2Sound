@@ -11,8 +11,7 @@ CONTENTS
 - Sample spectrum: Autoencoder.png
 - requirements.txt
 
-
-- CABBAGE/CSOUND INSTALLATION
+CABBAGE/CSOUND INSTALLATION
 
 1- Download and install CSound 6.15 from: https://github.com/csound/csound/releases/tag/6.15.0
 
@@ -23,8 +22,7 @@ CONTENTS
    Warning: The latest version of Cabbage allows to optionally install the latest version of CSound. This default option should be unchecked not to overwrite CSound 6.15.
    Latests versions of CSound require additional plugins to work with the image CSound opcodes, so they should not be used.
 
-
-- VAE2SOUND INSTALLATION
+VAE2SOUND INSTALLATION
 
 1- Download the spectra from: http://svocats.cab.inta-csic.es/miles/index.php?action=credits
 
