@@ -31,10 +31,12 @@ VAE2SOUND INSTALLATION
 
 2- Download all the content of this repository into the same folder
 
-3- To calculate the weights of the VAE for the MILES stellar library run Jupyter notebook 1: VAE-Demo.ipynb
+3- Install all the dependencies included in the requirements.txt file
+
+4- To calculate the weights of the VAE for the MILES stellar library run Jupyter notebook 1: VAE-Demo.ipynb
    - Add your path to the downloaded spectra before running all the cells
 
-4- To reproduce the sonifications:
+5- To reproduce the sonifications:
    - Launch Cabbage, open VAE2Sound.csd, and press play
    - Run Jupyter notebook 2 (VAE2Chords-Demo.ipynb), for the chord sonification
    - Add your path to the downloaded files before running all the cells
