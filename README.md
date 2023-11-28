@@ -11,12 +11,31 @@ CONTENTS
 - Sample spectrum: Autoencoder.png
 - requirements.txt
 
-INSTALLATION
 
-- Download the data: http://svocats.cab.inta-csic.es/miles/index.php?action=credits
-- Download all the content into the same folder
-- Calculate the weights of the VAE running Jupyter notebook 1: VAE-Demo.ipynb
-- Download and install Cabbage-Audio: https://cabbageaudio.com/download/
-- Launch Cabbage, open VAE2Sound.csd, and press play
-- Run Jupyter notebook 2 for chords or 3 for note sonification demos
-- Enjoy the sonifications!
+- CABBAGE/CSOUND INSTALLATION
+
+1- Download and install CSound 6.15 from: https://github.com/csound/csound/releases/tag/6.15.0
+
+2- Download Cabbage from: https://cabbageaudio.com/download/ 
+
+3- Install only Cabbage from the downloaded Cabbage package.
+
+   Warning: The latest version of Cabbage allows to optionally install the latest version of CSound. This default option should be unchecked not to overwrite CSound 6.15.
+   Latests versions of CSound require additional plugins to work with the image CSound opcodes, so they should not be used.
+
+
+- VAE2SOUND INSTALLATION
+
+1- Download the spectra from: http://svocats.cab.inta-csic.es/miles/index.php?action=credits
+
+2- Download all the content of this repository into the same folder
+
+3- To calculate the weights of the VAE for the MILES stellar library run Jupyter notebook 1: VAE-Demo.ipynb
+   - Add your path to the downloaded spectra before running all the cells
+
+4- To reproduce the sonifications:
+   - Launch Cabbage, open VAE2Sound.csd, and press play
+   - Run Jupyter notebook 2 for the chord sonification or Jupyter notebook 3 for the sequential note sonification
+   - Add your path to the downloaded files before running all the cells
+
+Enjoy the sonifications!
