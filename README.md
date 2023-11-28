@@ -1,5 +1,6 @@
 # VAE2Sound
 Stellar spectra-driven latent space sonification using a variational autoencoder. Sound spatialization in 360 degrees.
+![Uploading VAE2SOUND-GitHub.jpg…]()
 
 CONTENTS
 
@@ -11,6 +12,7 @@ CONTENTS
 - Sample spectrum: Autoencoder.png
 - requirements.txt
 
+
 CABBAGE/CSOUND INSTALLATION
 
 1- Download and install CSound 6.15 from: https://github.com/csound/csound/releases/tag/6.15.0
@@ -21,6 +23,7 @@ CABBAGE/CSOUND INSTALLATION
 
    Warning: The latest version of Cabbage allows to optionally install the latest version of CSound. This default option should be unchecked not to overwrite CSound 6.15.
    Latests versions of CSound require additional plugins to work with the image CSound opcodes, so they should not be used.
+
 
 VAE2SOUND INSTALLATION
 
