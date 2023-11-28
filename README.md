@@ -39,5 +39,6 @@ VAE2SOUND INSTALLATION
    - Run Jupyter notebook 2 (VAE2Chords-Demo.ipynb), for the chord sonification
    - Add your path to the downloaded files before running all the cells
    - Run Jupyter notebook 3 (VAE2Notes-Demo.ipynb) for the sequential note sonification
+   - Add your path to the downloaded files before running all the cells
 
 Enjoy the sonifications!
