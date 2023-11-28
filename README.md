@@ -36,7 +36,8 @@ VAE2SOUND INSTALLATION
 
 4- To reproduce the sonifications:
    - Launch Cabbage, open VAE2Sound.csd, and press play
-   - Run Jupyter notebook 2 for the chord sonification or Jupyter notebook 3 for the sequential note sonification
+   - Run Jupyter notebook 2 (VAE2Chords-Demo.ipynb), for the chord sonification
    - Add your path to the downloaded files before running all the cells
+   - Run Jupyter notebook 3 (VAE2Notes-Demo.ipynb) for the sequential note sonification
 
 Enjoy the sonifications!
