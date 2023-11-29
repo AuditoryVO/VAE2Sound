@@ -10,6 +10,8 @@ CONTENTS
 - CSound/Cabbage file: VAE2Sound.csd
 - Cabbage mask file: Init2.png
 - Sample spectrum: Autoencoder.png
+- LICENSE
+- README
 - requirements.txt
 
 
